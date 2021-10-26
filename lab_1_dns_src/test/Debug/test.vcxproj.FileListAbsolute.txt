@@ -1,0 +1,2 @@
+D:\Disk\University\2 course\SP\lab_1_dns_src\test\Debug\test.exe
+D:\Disk\University\2 course\SP\lab_1_dns_src\test\Debug\test.pdb

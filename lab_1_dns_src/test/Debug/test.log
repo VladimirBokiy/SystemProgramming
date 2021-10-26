@@ -1,0 +1,9 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  dns.c
+D:\Disk\University\2 course\SP\lab_1_dns_src\test\dns.c(50,20): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Disk\University\2 course\SP\lab_1_dns_src\test\dns.c(83,8): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Disk\University\2 course\SP\lab_1_dns_src\test\dns.c(92,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Disk\University\2 course\SP\lab_1_dns_src\test\dns.c(140,39): warning C4090: функция: разные квалификаторы "const"
+D:\Disk\University\2 course\SP\lab_1_dns_src\test\dns.c(142,21): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+dns.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  test.vcxproj -> D:\Disk\University\2 course\SP\lab_1_dns_src\test\Debug\test.exe
