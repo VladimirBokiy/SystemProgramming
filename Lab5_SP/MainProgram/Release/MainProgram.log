@@ -1,0 +1,8 @@
+﻿  dllMain.cpp
+C:\Users\Vladimir\Downloads\Лабораторная работа №5\Lab5_SP\MainProgram\dllMain.cpp(17,10): warning C4477: "scanf_s": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+     Создается библиотека C:\Users\Vladimir\Downloads\Лабораторная работа №5\Lab5_SP\Release\MainProgram.lib и объект C:\Users\Vladimir\Downloads\Лабораторная работа №5\Lab5_SP\Release\MainProgram.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  MainProgram.vcxproj -> C:\Users\Vladimir\Downloads\Лабораторная работа №5\Lab5_SP\Release\MainProgram.exe
